@@ -2,7 +2,7 @@
 
 This project showcases a Tableau dashboard built using data provided by Free Flow, a nonprofit focused on period poverty.
 
-🔗 **Live Dashboard**: [View Dashboard]([https://yourusername.github.io/free-flow-dashboard](https://public.tableau.com/views/FloBoxUtilization_17322366742720/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+🔗 **Live Dashboard**: [View Dashboard]((https://public.tableau.com/views/FloBoxUtilization_17322366742720/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
 📊 **Data Source**: [Google Sheet](need to find)  
 🛠️ **Tools Used**: Tableau, Google Sheets
 
